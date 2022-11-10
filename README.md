@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @McDedo
 - 👀 I’m interested by the programming
-- 🌱 I’m currently learning the language of python
-- 💞️ I’m looking to collaborate on the development of application in this language and in others
+- 💞️ I’m looking to collaborate on the development of application in Python and in others
 - 📫 How to reach me : my address email is dedocaleb1@gmail.com and my WhatsApp number is 22952793344
 
 <!---
